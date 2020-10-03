@@ -2,6 +2,8 @@
 
 Earned [IBM Badge Python for Data Science](https://www.youracclaim.com/badges/3a657dfb-ff88-426a-a5d5-9dc361891bfa)
 
+The badge earner is able to write their own Python scripts and perform basic hands-on data analysis using IBM's Jupyter-based lab environment.
+
 ## What i learned
  Module 1 - Python Basics
 
