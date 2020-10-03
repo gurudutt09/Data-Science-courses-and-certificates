@@ -7,7 +7,9 @@ This badge earner is able to code in Python for data science. They can analyze a
 # Earning Criteria
 
 -Successful completion of the course [Python for Datascience](https://github.com/gurudutt09/Data-Science-courses-and-certificates/tree/main/Python%20for%20Data%20Science-IBM) .
+
 -Successful completion of the course [Data Analysis with Python](https://github.com/gurudutt09/Data-Science-courses-and-certificates/tree/main/Data%20Analysis%20with%20Python-IBM) .
+
 -Successful completion of the course [Data Visualization with Python](https://github.com/gurudutt09/Data-Science-courses-and-certificates/tree/main/Data%20Visualization%20with%20Python) .
 
 
