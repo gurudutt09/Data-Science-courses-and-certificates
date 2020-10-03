@@ -1,6 +1,7 @@
 # Introduction to Data Science by IBM
 
 Earned [IBM Badge Data Science Foundations - Level 1](https://www.youracclaim.com/badges/75b6ac68-eb1c-431f-bb3c-58dd4dc36798)
+
 This badge earner has an understanding of the possibilities and opportunities that data science, analytics and big data bring to new applications in any industry.
 
 ## What i learned
